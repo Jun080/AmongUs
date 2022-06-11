@@ -9,7 +9,7 @@ L'objectif pour le joueur est d'identifier l'imposteurs et de l'éliminer tout e
 
 ### 2. Pourquoi
 
-Dans le cadre d'un projet Front dans notre école, nous avons eu 2 semaines pour effectuer un RPG en JavaScript.
+Dans le cadre d'un projet Front dans notre [école](https://www.hetic.net/), nous avons eu 2 semaines pour effectuer un RPG en JavaScript.
 
 ### 3. Contraintes imposées
 
@@ -33,10 +33,10 @@ Dans le cadre d'un projet Front dans notre école, nous avons eu 2 semaines pour
 
 ## Membres de l'équipe
 
+- Idris ABDELLI
+- Mathias BOUILLON
+- Martin CLAVER
+- Morgane DASSONVILLE
 - Raphael LOUISON
 - Julien VERITE
-- Idris ABDELLI
 - Salma WADOUACHI
-- Morgane DASSONVILLE
-- Martin CLAVER
-- Mathias BOUILLON
